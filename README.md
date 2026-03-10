@@ -1,6 +1,4 @@
-# 🔐 VaultX – Secure Digital Document Vault
-
-![VaultX Banner](https://via.placeholder.com/1200x400/123458/F1EFEC?text=VaultX+Secure+Digital+Vault)
+# 🔐 DocuVault – Secure Digital Document Vault
 
 VaultX is a **secure cloud-based digital document vault** built using the **MERN Stack (MongoDB, Express, React, Node.js)**.
 It allows users to **upload, store, organize, and manage sensitive files securely** with authentication, encrypted storage, and activity monitoring.
