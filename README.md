@@ -105,26 +105,6 @@ VaultX
 
 ---
 
-# 📸 Application Screenshots
-
-### Dashboard
-
-![Dashboard](https://via.placeholder.com/600x300/123458/ffffff?text=File+Browser+View)
-
-### Profile & Settings
-
-![Profile](https://via.placeholder.com/600x300/123458/ffffff?text=User+Profile+Page)
-
-### Activity Audit Trail
-
-![Audit](https://via.placeholder.com/600x300/123458/ffffff?text=Activity+Log+Timeline)
-
-### Global Search
-
-![Search](https://via.placeholder.com/600x300/123458/ffffff?text=Secure+Search)
-
----
-
 # ⚙️ Installation & Setup
 
 ## 1️⃣ Clone the Repository
